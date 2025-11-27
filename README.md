@@ -4,7 +4,6 @@
 
 **Telekinetic Particles** is a web-based experiment that combines **Three.js** for high-performance particle rendering with **Google MediaPipe** for computer vision. It allows users to manipulate a cloud of 15,000+ glowing particles using nothing but their webcam and hand movements—no mouse or keyboard required.
 
-*(Replace this link with your actual screenshot, e.g., `./screenshot.jpg`)*
 
 ## ✨ Features
 
